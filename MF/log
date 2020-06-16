@@ -1,0 +1,1830 @@
+2019-09-03 14:49:35 begin to load data	
+2019-09-04 01:25:52 load data done	
+2019-09-04 01:26:59 Epoch_0000_finished	traing_loss = 0.000147	
+2019-09-04 01:35:17 Epoch_0001_finished	traing_loss = 0.000134	
+2019-09-04 01:43:31 Epoch_0002_finished	traing_loss = 0.000133	
+2019-09-04 01:51:51 Epoch_0003_finished	traing_loss = 0.000132	
+2019-09-04 02:00:06 Epoch_0004_finished	traing_loss = 0.000131	
+2019-09-04 02:08:20 Epoch_0005_finished	traing_loss = 0.000131	
+2019-09-04 02:15:44 done	
+2019-10-21 10:26:52 begin to load data	
+2019-10-21 10:26:52 load data done	
+2019-10-22 10:46:57 begin to load data	
+2019-10-22 14:04:51 load data done	
+2019-10-22 14:05:03 Epoch_0000_finished	traing_loss = 0.000242	
+2019-10-22 14:17:50 Epoch_0001_finished	traing_loss = 0.000242	
+2019-10-22 14:30:25 Epoch_0002_finished	traing_loss = 0.000242	
+2019-10-22 14:43:12 Epoch_0003_finished	traing_loss = 0.000242	
+2019-10-22 14:55:57 Epoch_0004_finished	traing_loss = 0.000242	
+2019-10-22 15:08:52 Epoch_0005_finished	traing_loss = 0.000242	
+2019-10-22 15:21:33 done	
+2020-05-04 15:05:35 begin to load data	
+2020-05-04 19:09:46 load data done	
+2020-05-04 19:09:46 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\myFramwork_without_review.py:264: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+	
+2020-05-04 19:09:46 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\myFramwork_without_review.py:279: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+	
+2020-05-04 19:09:46 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\myFramwork_without_review.py:337: The name tf.train.GradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.GradientDescentOptimizer instead.
+	
+2020-05-04 19:09:46 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\myFramwork_without_review.py:339: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+	
+2020-05-04 19:09:46 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\myFramwork_without_review.py:341: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+	
+2020-05-04 19:09:46 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\myFramwork_without_review.py:342: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+	
+2020-05-04 19:09:58 Epoch_0000_finished	traing_loss = 0.000242	
+2020-05-04 19:23:15 Epoch_0001_finished	traing_loss = 0.000242	
+2020-05-04 19:36:52 Epoch_0002_finished	traing_loss = 0.000242	
+2020-05-04 19:50:53 Epoch_0003_finished	traing_loss = 0.000242	
+2020-05-04 20:04:41 Epoch_0004_finished	traing_loss = 0.000242	
+2020-05-04 20:18:34 Epoch_0005_finished	traing_loss = 0.000242	
+2020-05-04 20:32:21 done	
+2020-05-05 10:58:20 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-05 10:58:20 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-05 10:58:20 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-05 10:58:20 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-05 10:58:20 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-05 10:58:20 loaded item_doc2vec_item_size21661.model	
+2020-05-05 10:58:29 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-05 10:58:29 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-05 10:58:29 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-05 10:58:29 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-05 10:58:29 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-05 10:58:29 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-05 11:00:38 begin to load data	
+2020-05-05 15:02:33 load data done	
+2020-05-05 15:02:45 Epoch_0000_finished	traing_loss = 0.000242	
+2020-05-05 15:15:57 Epoch_0001_finished	traing_loss = 0.000242	
+2020-05-05 15:29:14 Epoch_0002_finished	traing_loss = 0.000242	
+2020-05-05 15:42:44 Epoch_0003_finished	traing_loss = 0.000242	
+2020-05-05 15:56:30 Epoch_0004_finished	traing_loss = 0.000242	
+2020-05-05 16:10:28 Epoch_0005_finished	traing_loss = 0.000242	
+2020-05-05 16:24:07 done	
+2020-05-12 15:24:59 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 15:24:59 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 15:24:59 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 15:24:59 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 15:24:59 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 15:24:59 loaded item_doc2vec_item_size21661.model	
+2020-05-12 15:25:08 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 15:25:08 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 15:25:08 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 15:25:08 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 15:25:08 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 15:25:08 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 15:25:57 begin to load data	
+2020-05-12 15:51:46 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 15:51:46 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 15:51:46 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 15:51:46 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 15:51:46 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 15:51:46 loaded item_doc2vec_item_size21661.model	
+2020-05-12 15:51:55 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 15:51:55 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 15:51:55 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 15:51:55 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 15:51:55 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 15:51:55 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:02:41 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:02:42 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:02:42 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:02:42 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:02:42 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:02:42 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:12:01 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:12:01 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:12:01 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:12:01 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:12:01 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:12:01 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:12:10 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:12:10 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:12:10 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:12:10 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:12:10 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:12:10 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:15:06 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:15:06 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:15:06 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:15:06 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:15:06 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:15:06 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:15:14 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:15:15 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:15:15 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:15:15 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:15:15 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:15:15 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:16:04 begin to load data	
+2020-05-12 16:16:04 load data done	
+2020-05-12 16:16:05 From E:\Anaconda3\lib\site-packages\tensorflow\python\ops\math_grad.py:1205: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where	
+2020-05-12 16:18:07 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:18:07 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:18:07 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:18:07 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:18:07 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:18:07 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:18:16 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:18:16 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:18:16 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:18:16 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:18:16 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:18:16 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:19:05 begin to load data	
+2020-05-12 16:19:05 load data done	
+2020-05-12 16:23:09 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:23:09 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:23:09 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:23:09 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:23:09 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:23:09 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:23:18 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:23:18 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:23:18 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:23:18 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:23:18 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:23:18 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:24:09 begin to load data	
+2020-05-12 16:24:09 load data done	
+2020-05-12 16:32:29 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:32:29 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:32:29 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:32:29 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:32:29 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:32:29 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:32:37 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:32:38 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:32:38 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:32:38 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:32:38 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:32:38 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:33:27 begin to load data	
+2020-05-12 16:33:27 load data done	
+2020-05-12 16:35:46 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:35:46 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:35:46 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:35:46 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:35:46 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:35:46 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:35:55 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:35:55 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:35:55 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:35:55 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:35:55 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:35:55 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:36:44 begin to load data	
+2020-05-12 16:36:44 load data done	
+2020-05-12 16:41:27 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:41:28 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:41:28 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:41:28 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:41:28 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:41:28 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:41:36 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:41:36 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:41:36 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:41:36 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:41:36 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:41:36 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:42:24 begin to load data	
+2020-05-12 16:42:24 load data done	
+2020-05-12 16:45:26 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:45:26 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:45:26 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:45:26 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:45:26 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:45:26 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:45:35 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:45:35 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:45:35 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:45:35 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:45:35 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:45:35 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:46:27 begin to load data	
+2020-05-12 16:46:27 load data done	
+2020-05-12 16:51:18 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 16:51:18 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 16:51:18 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 16:51:18 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 16:51:18 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 16:51:18 loaded item_doc2vec_item_size21661.model	
+2020-05-12 16:51:26 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:51:27 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 16:51:27 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 16:51:27 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 16:51:27 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 16:51:27 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 16:52:15 begin to load data	
+2020-05-12 16:52:15 load data done	
+2020-05-12 19:59:48 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 19:59:48 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 19:59:48 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 19:59:48 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 19:59:48 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 19:59:48 loaded item_doc2vec_item_size21661.model	
+2020-05-12 19:59:57 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 19:59:57 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 19:59:57 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 19:59:57 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 19:59:57 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 19:59:57 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 20:00:49 begin to load data	
+2020-05-12 20:00:49 load data done	
+2020-05-12 20:03:43 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-12 20:03:43 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-12 20:03:43 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-12 20:03:43 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-12 20:03:43 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-12 20:03:43 loaded item_doc2vec_item_size21661.model	
+2020-05-12 20:03:52 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 20:03:52 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-12 20:03:52 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-12 20:03:52 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-12 20:03:52 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-12 20:03:52 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-12 20:04:45 begin to load data	
+2020-05-12 20:04:45 load data done	
+2020-05-13 20:22:08 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 20:22:09 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 20:22:09 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 20:22:09 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 20:22:09 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 20:22:09 loaded item_doc2vec_item_size21661.model	
+2020-05-13 20:22:18 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:22:18 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 20:22:18 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 20:22:18 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 20:22:18 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 20:22:18 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:23:09 begin to load data	
+2020-05-13 20:23:09 load data done	
+2020-05-13 20:24:45 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 20:24:45 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 20:24:45 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 20:24:45 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 20:24:45 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 20:24:45 loaded item_doc2vec_item_size21661.model	
+2020-05-13 20:24:54 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:24:54 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 20:24:54 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 20:24:54 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 20:24:54 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 20:24:54 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:25:45 begin to load data	
+2020-05-13 20:25:45 load data done	
+2020-05-13 20:28:17 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 20:28:17 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 20:28:17 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 20:28:17 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 20:28:17 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 20:28:17 loaded item_doc2vec_item_size21661.model	
+2020-05-13 20:28:25 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:28:26 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 20:28:26 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 20:28:26 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 20:28:26 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 20:28:26 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:29:15 begin to load data	
+2020-05-13 20:29:15 load data done	
+2020-05-13 20:33:14 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 20:33:14 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 20:33:14 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 20:33:14 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 20:33:14 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 20:33:14 loaded item_doc2vec_item_size21661.model	
+2020-05-13 20:33:23 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:33:23 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 20:33:23 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 20:33:23 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 20:33:23 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 20:33:23 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:34:12 begin to load data	
+2020-05-13 20:34:12 load data done	
+2020-05-13 20:51:30 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 20:51:31 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 20:51:31 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 20:51:31 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 20:51:31 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 20:51:31 loaded item_doc2vec_item_size21661.model	
+2020-05-13 20:51:39 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:51:39 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 20:51:39 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 20:51:39 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 20:51:39 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 20:51:39 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:52:30 begin to load data	
+2020-05-13 20:52:31 load data done	
+2020-05-13 20:57:45 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 20:57:45 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 20:57:45 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 20:57:45 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 20:57:45 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 20:57:45 loaded item_doc2vec_item_size21661.model	
+2020-05-13 20:57:53 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:57:54 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 20:57:54 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 20:57:54 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 20:57:54 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 20:57:54 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 20:58:41 begin to load data	
+2020-05-13 20:58:41 load data done	
+2020-05-13 21:13:46 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 21:13:46 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 21:13:46 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 21:13:46 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 21:13:46 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 21:13:46 loaded item_doc2vec_item_size21661.model	
+2020-05-13 21:13:55 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:13:55 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 21:13:55 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 21:13:55 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 21:13:55 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 21:13:55 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:14:42 begin to load data	
+2020-05-13 21:14:42 load data done	
+2020-05-13 21:16:58 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 21:16:58 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 21:16:58 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 21:16:58 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 21:16:58 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 21:16:58 loaded item_doc2vec_item_size21661.model	
+2020-05-13 21:17:06 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:17:06 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 21:17:06 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 21:17:06 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 21:17:06 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 21:17:06 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:19:21 begin to load data	
+2020-05-13 21:19:21 load data done	
+2020-05-13 21:19:24 Epoch_0000_finished	traing_loss = 0.000000	
+2020-05-13 21:20:25 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 21:20:25 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 21:20:25 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 21:20:25 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 21:20:25 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 21:20:25 loaded item_doc2vec_item_size21661.model	
+2020-05-13 21:20:34 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:20:34 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 21:20:34 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 21:20:34 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 21:20:34 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 21:20:34 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:22:42 begin to load data	
+2020-05-13 21:22:42 load data done	
+2020-05-13 21:22:46 Epoch_0000_finished	traing_loss = 0.000000	
+2020-05-13 21:35:35 Epoch_0001_finished	traing_loss = 0.000000	
+2020-05-13 21:47:54 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-13 21:47:54 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-13 21:47:54 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-13 21:47:54 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-13 21:47:54 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-13 21:47:54 loaded item_doc2vec_item_size21661.model	
+2020-05-13 21:48:03 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:48:03 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-13 21:48:03 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-13 21:48:03 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-13 21:48:03 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-13 21:48:03 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-13 21:50:22 begin to load data	
+2020-05-13 21:50:22 load data done	
+2020-05-13 21:50:25 Epoch_0000_finished	traing_loss = 0.000000	
+2020-05-13 22:03:37 Epoch_0001_finished	traing_loss = 0.000000	
+2020-05-13 22:16:50 Epoch_0002_finished	traing_loss = 0.000000	
+2020-05-13 22:30:18 done	
+2020-05-14 13:27:29 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:27:30 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:27:30 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:27:30 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:27:30 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:27:30 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:27:38 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:27:39 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:27:39 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:27:39 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:27:39 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:27:39 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:28:27 begin to load data	
+2020-05-14 13:28:27 load data done	
+2020-05-14 13:30:23 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:30:23 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:30:23 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:30:23 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:30:23 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:30:23 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:30:32 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:30:32 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:30:32 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:30:32 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:30:32 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:30:32 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:31:21 begin to load data	
+2020-05-14 13:31:21 load data done	
+2020-05-14 13:46:35 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:46:36 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:46:36 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:46:36 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:46:36 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:46:36 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:46:44 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:46:44 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:46:44 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:46:44 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:46:44 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:46:44 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:47:35 begin to load data	
+2020-05-14 13:47:35 load data done	
+2020-05-14 13:48:52 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:48:53 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:48:53 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:48:53 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:48:53 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:48:53 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:49:01 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:49:01 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:49:01 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:49:01 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:49:01 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:49:01 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:49:53 begin to load data	
+2020-05-14 13:49:53 load data done	
+2020-05-14 13:50:01 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 13:52:21 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:52:21 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:52:21 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:52:21 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:52:21 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:52:21 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:52:29 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:52:30 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:52:30 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:52:30 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:52:30 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:52:30 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:53:17 begin to load data	
+2020-05-14 13:53:18 load data done	
+2020-05-14 13:53:25 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 13:54:01 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:54:01 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:54:01 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:54:01 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:54:01 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:54:01 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:54:09 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:54:09 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:54:09 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:54:09 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:54:09 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:54:09 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:54:57 begin to load data	
+2020-05-14 13:54:58 load data done	
+2020-05-14 13:55:06 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 13:58:23 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 13:58:23 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 13:58:23 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 13:58:23 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 13:58:23 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 13:58:23 loaded item_doc2vec_item_size21661.model	
+2020-05-14 13:58:32 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:58:32 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 13:58:32 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 13:58:32 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 13:58:32 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 13:58:32 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 13:59:21 begin to load data	
+2020-05-14 13:59:21 load data done	
+2020-05-14 13:59:29 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 14:11:42 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 14:11:42 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 14:11:42 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 14:11:42 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 14:11:42 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 14:11:42 loaded item_doc2vec_item_size21661.model	
+2020-05-14 14:11:50 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 14:11:51 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 14:11:51 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 14:11:51 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 14:11:51 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 14:11:51 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 14:12:41 begin to load data	
+2020-05-14 14:12:41 load data done	
+2020-05-14 14:12:51 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 14:12:55 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 14:12:57 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 14:13:00 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 14:13:02 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 14:13:05 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 14:13:06 done	
+2020-05-14 14:15:38 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 14:15:38 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 14:15:38 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 14:15:38 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 14:15:38 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 14:15:38 loaded item_doc2vec_item_size21661.model	
+2020-05-14 14:15:47 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 14:15:47 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 14:15:47 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 14:15:47 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 14:15:47 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 14:15:47 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 14:16:35 begin to load data	
+2020-05-14 14:16:35 load data done	
+2020-05-14 14:16:44 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 14:16:48 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 14:16:51 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 14:16:53 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 14:16:56 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 14:16:59 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 14:17:00 done	
+2020-05-14 15:19:13 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 15:19:13 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 15:19:13 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 15:19:13 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 15:19:13 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 15:19:13 loaded item_doc2vec_item_size21661.model	
+2020-05-14 15:19:22 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 15:19:22 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 15:19:22 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 15:19:22 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 15:19:22 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 15:19:22 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 15:20:11 begin to load data	
+2020-05-14 15:20:11 load data done	
+2020-05-14 15:20:20 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 15:20:24 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 15:20:27 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 15:20:29 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 15:20:32 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 15:20:35 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 15:20:37 done	
+2020-05-14 15:21:14 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 15:21:14 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 15:21:14 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 15:21:14 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 15:21:14 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 15:21:14 loaded item_doc2vec_item_size21661.model	
+2020-05-14 15:21:22 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 15:21:23 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 15:21:23 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 15:21:23 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 15:21:23 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 15:21:23 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 15:22:10 begin to load data	
+2020-05-14 15:22:10 load data done	
+2020-05-14 15:22:21 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 15:22:25 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 15:22:28 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 15:22:31 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 15:22:34 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 15:22:37 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 15:22:39 done	
+2020-05-14 16:17:49 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:17:49 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:17:49 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:17:49 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:17:49 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:17:49 loaded item_doc2vec_item_size21661.model	
+2020-05-14 16:17:58 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:17:58 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 16:17:58 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 16:17:58 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 16:17:58 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 16:17:58 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:18:49 begin to load data	
+2020-05-14 16:18:49 load data done	
+2020-05-14 16:19:00 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 16:19:04 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 16:19:07 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 16:19:10 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 16:19:14 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 16:19:17 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 16:19:19 done	
+2020-05-14 16:21:17 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:21:18 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:21:18 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:21:18 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:21:18 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:21:18 loaded item_doc2vec_item_size21661.model	
+2020-05-14 16:21:26 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:21:27 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 16:21:27 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 16:21:27 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 16:21:27 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 16:21:27 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:22:18 begin to load data	
+2020-05-14 16:22:18 load data done	
+2020-05-14 16:22:29 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 16:22:33 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 16:22:36 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 16:22:40 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 16:22:43 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 16:22:46 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 16:22:48 done	
+2020-05-14 16:23:55 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:23:55 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:23:55 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:23:55 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:23:55 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:23:55 loaded item_doc2vec_item_size21661.model	
+2020-05-14 16:24:04 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:24:04 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 16:24:04 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 16:24:04 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 16:24:04 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 16:24:04 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:24:55 begin to load data	
+2020-05-14 16:24:55 load data done	
+2020-05-14 16:24:55 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:553: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+	
+2020-05-14 16:25:07 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 16:25:12 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 16:25:16 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 16:25:19 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 16:25:22 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 16:25:26 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 16:25:28 done	
+2020-05-14 16:27:35 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:27:35 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:27:35 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:27:35 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:27:35 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:27:35 loaded item_doc2vec_item_size21661.model	
+2020-05-14 16:27:44 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:27:44 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 16:27:44 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 16:27:44 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 16:27:44 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 16:27:44 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:28:33 begin to load data	
+2020-05-14 16:28:34 load data done	
+2020-05-14 16:28:46 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 16:28:51 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 16:28:55 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 16:28:58 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 16:29:02 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 16:29:05 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 16:29:07 done	
+2020-05-14 16:41:00 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:41:01 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:41:01 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:41:01 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:41:01 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:41:01 loaded item_doc2vec_item_size21661.model	
+2020-05-14 16:41:09 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:41:09 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 16:41:09 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 16:41:09 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 16:41:09 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 16:41:09 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:41:57 begin to load data	
+2020-05-14 16:41:57 load data done	
+2020-05-14 16:42:11 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 16:42:16 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 16:42:19 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 16:42:23 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 16:42:26 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 16:42:30 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 16:42:32 done	
+2020-05-14 16:56:33 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:56:33 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:56:33 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:56:33 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:56:33 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:56:33 loaded item_doc2vec_item_size21661.model	
+2020-05-14 16:56:42 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:56:42 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 16:56:42 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 16:56:42 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 16:56:42 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 16:56:42 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 16:57:29 begin to load data	
+2020-05-14 16:57:30 load data done	
+2020-05-14 16:57:44 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 16:57:49 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 16:57:52 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 16:57:56 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 16:58:00 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 16:58:04 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 16:58:05 done	
+2020-05-14 16:59:54 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 16:59:54 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 16:59:54 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 16:59:54 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 16:59:54 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 16:59:54 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:00:02 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:00:03 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:00:03 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:00:03 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:00:03 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:00:03 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:00:51 begin to load data	
+2020-05-14 17:00:51 load data done	
+2020-05-14 17:01:06 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:01:12 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:01:16 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:01:20 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 17:01:24 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 17:01:28 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 17:01:30 done	
+2020-05-14 17:06:08 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:06:08 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:06:08 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:06:08 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:06:08 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:06:08 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:06:16 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:06:17 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:06:17 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:06:17 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:06:17 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:06:17 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:07:05 begin to load data	
+2020-05-14 17:07:05 load data done	
+2020-05-14 17:07:20 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:07:26 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:07:30 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:07:34 Epoch_0003_finished	traing_loss = nan	
+2020-05-14 17:07:38 Epoch_0004_finished	traing_loss = nan	
+2020-05-14 17:07:43 Epoch_0005_finished	traing_loss = nan	
+2020-05-14 17:07:45 done	
+2020-05-14 17:09:09 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:09:09 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:09:09 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:09:09 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:09:09 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:09:09 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:09:17 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:09:17 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:09:17 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:09:17 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:09:17 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:09:17 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:10:05 begin to load data	
+2020-05-14 17:10:05 load data done	
+2020-05-14 17:10:23 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:10:30 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:10:34 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:10:36 done	
+2020-05-14 17:12:08 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:12:09 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:12:09 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:12:09 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:12:09 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:12:09 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:12:17 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:12:17 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:12:17 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:12:17 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:12:17 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:12:17 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:13:06 begin to load data	
+2020-05-14 17:13:06 load data done	
+2020-05-14 17:13:24 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:13:31 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:13:35 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:13:37 done	
+2020-05-14 17:14:35 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:14:36 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:14:36 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:14:36 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:14:36 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:14:36 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:14:44 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:14:44 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:14:44 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:14:44 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:14:44 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:14:44 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:15:32 begin to load data	
+2020-05-14 17:15:32 load data done	
+2020-05-14 17:15:51 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:15:58 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:16:02 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:16:05 done	
+2020-05-14 17:17:21 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:17:21 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:17:21 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:17:21 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:17:21 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:17:21 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:17:30 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:17:30 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:17:30 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:17:30 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:17:30 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:17:30 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:18:20 begin to load data	
+2020-05-14 17:18:20 load data done	
+2020-05-14 17:18:40 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:18:48 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:18:52 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:18:55 done	
+2020-05-14 17:19:57 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:19:57 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:19:57 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:19:57 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:19:57 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:19:57 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:20:05 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:20:06 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:20:06 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:20:06 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:20:06 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:20:06 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:20:54 begin to load data	
+2020-05-14 17:20:54 load data done	
+2020-05-14 17:21:14 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:21:22 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:21:27 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:21:30 done	
+2020-05-14 17:22:30 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 17:22:30 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 17:22:30 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 17:22:30 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 17:22:30 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 17:22:30 loaded item_doc2vec_item_size21661.model	
+2020-05-14 17:22:38 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:22:39 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 17:22:39 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 17:22:39 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 17:22:39 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 17:22:39 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 17:23:28 begin to load data	
+2020-05-14 17:23:29 load data done	
+2020-05-14 17:23:50 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 17:23:58 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 17:24:03 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 17:24:06 done	
+2020-05-14 20:06:42 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 20:06:42 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 20:06:42 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 20:06:42 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 20:06:42 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 20:06:42 loaded item_doc2vec_item_size21661.model	
+2020-05-14 20:06:50 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 20:06:50 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 20:06:50 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 20:06:50 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 20:06:50 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 20:06:50 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 20:07:02 begin to load data	
+2020-05-14 20:18:12 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-14 20:18:12 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-14 20:18:12 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-14 20:18:12 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-14 20:18:12 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-14 20:18:12 loaded item_doc2vec_item_size21661.model	
+2020-05-14 20:18:20 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 20:18:21 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-14 20:18:21 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-14 20:18:21 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-14 20:18:21 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-14 20:18:21 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-14 20:18:32 begin to load data	
+2020-05-14 21:27:53 load data done	
+2020-05-14 21:30:15 Epoch_0000_finished	traing_loss = nan	
+2020-05-14 21:32:09 Epoch_0001_finished	traing_loss = nan	
+2020-05-14 21:34:18 Epoch_0002_finished	traing_loss = nan	
+2020-05-14 21:34:21 done	
+2020-05-15 10:45:04 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 10:45:04 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 10:45:04 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 10:45:04 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 10:45:04 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 10:45:04 loaded item_doc2vec_item_size21661.model	
+2020-05-15 10:45:12 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 10:45:13 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 10:45:13 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 10:45:13 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 10:45:13 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 10:45:13 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 10:45:13 begin to load data	
+2020-05-15 10:45:13 load data done	
+2020-05-15 10:45:36 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 10:45:43 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 10:45:46 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 10:45:48 done	
+2020-05-15 10:46:47 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 10:46:47 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 10:46:47 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 10:46:47 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 10:46:47 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 10:46:47 loaded item_doc2vec_item_size21661.model	
+2020-05-15 10:46:55 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 10:46:55 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 10:46:55 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 10:46:55 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 10:46:55 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 10:46:55 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 10:46:56 begin to load data	
+2020-05-15 10:46:56 load data done	
+2020-05-15 10:47:19 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 10:47:27 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 10:47:30 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 10:47:32 done	
+2020-05-15 10:50:08 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 10:50:08 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 10:50:08 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 10:50:08 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 10:50:08 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 10:50:08 loaded item_doc2vec_item_size21661.model	
+2020-05-15 10:50:17 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 10:50:17 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 10:50:17 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 10:50:17 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 10:50:17 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 10:50:17 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 10:50:17 begin to load data	
+2020-05-15 10:50:18 load data done	
+2020-05-15 10:50:43 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 10:50:51 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 10:50:54 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 10:50:56 done	
+2020-05-15 11:01:02 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:01:02 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:01:02 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:01:02 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:01:02 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:01:02 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:01:11 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:01:11 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 11:01:11 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 11:01:11 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 11:01:11 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 11:01:11 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:01:12 begin to load data	
+2020-05-15 11:01:12 load data done	
+2020-05-15 11:01:38 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 11:01:46 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 11:01:50 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 11:01:52 done	
+2020-05-15 11:24:01 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:24:02 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:24:02 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:24:02 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:24:02 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:24:02 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:24:10 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:24:10 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 11:24:10 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 11:24:10 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 11:24:10 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 11:24:10 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:24:10 begin to load data	
+2020-05-15 11:24:11 load data done	
+2020-05-15 11:24:37 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 11:24:45 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 11:24:49 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 11:24:51 done	
+2020-05-15 11:25:28 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:25:30 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:25:30 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:25:30 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:25:30 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:25:30 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:25:42 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:25:42 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:25:42 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:25:42 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:25:42 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:25:42 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:25:50 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:25:51 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 11:25:51 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 11:25:51 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 11:25:51 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 11:25:51 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:25:51 begin to load data	
+2020-05-15 11:25:51 load data done	
+2020-05-15 11:26:19 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 11:26:28 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 11:26:30 done	
+2020-05-15 11:27:42 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:27:42 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:27:42 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:27:42 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:27:42 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:27:42 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:27:50 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:27:51 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 11:27:51 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 11:27:51 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 11:27:51 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 11:27:51 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:27:51 begin to load data	
+2020-05-15 11:27:51 load data done	
+2020-05-15 11:28:18 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 11:28:27 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 11:28:30 done	
+2020-05-15 11:29:33 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:29:34 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:29:34 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:29:34 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:29:34 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:29:34 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:29:42 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:29:42 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 11:29:42 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 11:29:42 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 11:29:42 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 11:29:42 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:29:43 begin to load data	
+2020-05-15 11:29:43 load data done	
+2020-05-15 11:30:11 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 11:30:20 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 11:30:24 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 11:30:27 done	
+2020-05-15 11:32:26 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 11:32:26 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 11:32:26 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 11:32:26 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 11:32:26 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 11:32:26 loaded item_doc2vec_item_size21661.model	
+2020-05-15 11:32:35 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:32:35 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 11:32:35 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 11:32:35 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 11:32:35 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 11:32:35 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 11:32:35 begin to load data	
+2020-05-15 11:32:35 load data done	
+2020-05-15 11:33:05 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 11:33:15 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 11:33:19 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 11:33:22 done	
+2020-05-15 15:31:16 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:31:16 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:31:16 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:31:16 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:31:16 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:31:16 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:31:24 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:31:25 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:31:25 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:31:25 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:31:25 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:31:25 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:31:25 begin to load data	
+2020-05-15 15:31:25 load data done	
+2020-05-15 15:31:57 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:32:08 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:32:12 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:32:15 done	
+2020-05-15 15:34:00 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:34:00 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:34:00 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:34:00 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:34:00 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:34:00 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:34:09 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:34:09 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:34:09 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:34:09 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:34:09 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:34:09 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:34:09 begin to load data	
+2020-05-15 15:34:09 load data done	
+2020-05-15 15:34:43 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:34:54 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:34:59 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:35:02 done	
+2020-05-15 15:35:45 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:35:46 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:35:46 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:35:46 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:35:46 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:35:46 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:35:55 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:35:55 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:35:55 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:35:55 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:35:55 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:35:55 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:35:55 begin to load data	
+2020-05-15 15:35:55 load data done	
+2020-05-15 15:36:30 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:36:41 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:36:46 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:36:49 done	
+2020-05-15 15:38:39 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:38:39 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:38:39 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:38:39 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:38:39 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:38:39 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:38:48 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:38:48 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:38:48 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:38:48 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:38:48 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:38:48 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:38:48 begin to load data	
+2020-05-15 15:38:48 load data done	
+2020-05-15 15:39:24 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:39:36 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:39:41 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:39:44 done	
+2020-05-15 15:40:18 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:40:18 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:40:18 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:40:18 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:40:18 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:40:18 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:40:26 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:40:27 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:40:27 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:40:27 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:40:27 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:40:27 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:40:27 begin to load data	
+2020-05-15 15:40:27 load data done	
+2020-05-15 15:41:04 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:41:16 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:41:22 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:41:26 done	
+2020-05-15 15:42:20 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:42:20 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:42:20 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:42:20 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:42:20 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:42:20 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:42:28 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:42:29 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:42:29 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:42:29 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:42:29 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:42:29 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:42:29 begin to load data	
+2020-05-15 15:42:29 load data done	
+2020-05-15 15:43:07 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:43:20 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:43:25 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:43:29 done	
+2020-05-15 15:56:13 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 15:56:14 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 15:56:14 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 15:56:14 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 15:56:14 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 15:56:14 loaded item_doc2vec_item_size21661.model	
+2020-05-15 15:56:22 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:56:22 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 15:56:22 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 15:56:22 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 15:56:22 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 15:56:22 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 15:56:23 begin to load data	
+2020-05-15 15:56:23 load data done	
+2020-05-15 15:57:00 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 15:57:13 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 15:57:18 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 15:57:22 done	
+2020-05-15 16:00:51 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 16:00:52 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 16:00:52 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 16:00:52 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 16:00:52 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 16:00:52 loaded item_doc2vec_item_size21661.model	
+2020-05-15 16:01:00 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 16:01:00 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 16:01:00 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 16:01:00 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 16:01:00 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 16:01:00 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 16:01:00 begin to load data	
+2020-05-15 16:01:00 load data done	
+2020-05-15 16:01:39 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 16:01:52 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 16:01:57 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 16:02:01 done	
+2020-05-15 16:50:53 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 16:50:53 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 16:50:53 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 16:50:53 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 16:50:53 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 16:50:53 loaded item_doc2vec_item_size21661.model	
+2020-05-15 16:51:01 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 16:51:02 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 16:51:02 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 16:51:02 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 16:51:02 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 16:51:02 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 16:51:02 begin to load data	
+2020-05-15 16:51:02 load data done	
+2020-05-15 16:51:44 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 16:51:58 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 16:52:04 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 16:52:08 done	
+2020-05-15 16:54:24 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 16:54:25 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 16:54:25 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 16:54:25 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 16:54:25 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 16:54:25 loaded item_doc2vec_item_size21661.model	
+2020-05-15 16:54:35 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 16:54:35 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 16:54:35 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 16:54:35 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 16:54:35 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 16:54:35 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 16:54:35 begin to load data	
+2020-05-15 16:54:36 load data done	
+2020-05-15 16:55:17 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 16:55:30 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 16:55:36 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 16:55:40 done	
+2020-05-15 17:02:07 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 17:02:07 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 17:02:07 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 17:02:07 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 17:02:07 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 17:02:07 loaded item_doc2vec_item_size21661.model	
+2020-05-15 17:02:15 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:02:16 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 17:02:16 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 17:02:16 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 17:02:16 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 17:02:16 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:02:16 begin to load data	
+2020-05-15 17:02:16 load data done	
+2020-05-15 17:02:59 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 17:03:14 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 17:03:20 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 17:03:25 done	
+2020-05-15 17:13:50 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 17:13:50 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 17:13:50 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 17:13:50 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 17:13:50 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 17:13:50 loaded item_doc2vec_item_size21661.model	
+2020-05-15 17:13:59 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:13:59 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 17:13:59 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 17:13:59 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 17:13:59 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 17:13:59 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:14:00 begin to load data	
+2020-05-15 17:14:00 load data done	
+2020-05-15 17:14:45 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 17:15:00 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 17:15:08 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 17:15:13 done	
+2020-05-15 17:17:09 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 17:17:10 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 17:17:10 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 17:17:10 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 17:17:10 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 17:17:10 loaded item_doc2vec_item_size21661.model	
+2020-05-15 17:17:18 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:17:18 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 17:17:18 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 17:17:18 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 17:17:18 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 17:17:18 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:17:18 begin to load data	
+2020-05-15 17:17:18 load data done	
+2020-05-15 17:18:03 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 17:18:18 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 17:18:24 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 17:18:29 done	
+2020-05-15 17:19:39 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 17:19:40 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 17:19:40 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 17:19:40 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 17:19:40 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 17:19:40 loaded item_doc2vec_item_size21661.model	
+2020-05-15 17:19:48 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:19:48 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 17:19:48 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 17:19:48 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 17:19:48 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 17:19:48 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:19:49 begin to load data	
+2020-05-15 17:19:49 load data done	
+2020-05-15 17:20:36 Epoch_0000_finished	traing_loss = nan	
+2020-05-15 17:20:52 Epoch_0001_finished	traing_loss = nan	
+2020-05-15 17:20:58 Epoch_0002_finished	traing_loss = nan	
+2020-05-15 17:21:03 done	
+2020-05-15 17:25:49 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 17:25:49 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 17:25:49 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 17:25:49 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 17:25:49 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 17:25:49 loaded item_doc2vec_item_size21661.model	
+2020-05-15 17:26:01 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-15 17:26:02 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-15 17:26:02 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-15 17:26:02 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-15 17:26:02 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-15 17:26:02 loaded item_doc2vec_item_size21661.model	
+2020-05-15 17:26:10 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:26:10 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-15 17:26:10 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-15 17:26:10 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-15 17:26:10 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-15 17:26:10 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-15 17:26:11 begin to load data	
+2020-05-15 17:26:11 load data done	
+2020-05-15 17:26:53 Epoch_0000_finished	traing_loss = 0.000000	
+2020-05-15 17:27:03 Epoch_0001_finished	traing_loss = 0.000000	
+2020-05-15 17:27:03 Epoch_0002_finished	traing_loss = 0.000000	
+2020-05-15 17:27:09 done	
+2020-05-16 10:38:50 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-16 10:38:50 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-16 10:38:50 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-16 10:38:50 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-16 10:38:50 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-16 10:38:50 loaded item_doc2vec_item_size21661.model	
+2020-05-16 10:38:58 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:38:59 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-16 10:38:59 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-16 10:38:59 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-16 10:38:59 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-16 10:38:59 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:38:59 begin to load data	
+2020-05-16 10:38:59 load data done	
+2020-05-16 10:39:47 Epoch_0000_finished	traing_loss = nan	
+2020-05-16 10:40:04 Epoch_0001_finished	traing_loss = nan	
+2020-05-16 10:40:11 Epoch_0002_finished	traing_loss = nan	
+2020-05-16 10:40:17 done	
+2020-05-16 10:40:55 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-16 10:40:56 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-16 10:40:56 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-16 10:40:56 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-16 10:40:56 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-16 10:40:56 loaded item_doc2vec_item_size21661.model	
+2020-05-16 10:41:04 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:41:04 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-16 10:41:04 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-16 10:41:04 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-16 10:41:04 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-16 10:41:04 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:41:05 begin to load data	
+2020-05-16 10:41:05 load data done	
+2020-05-16 10:42:13 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-16 10:42:13 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-16 10:42:13 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-16 10:42:13 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-16 10:42:13 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-16 10:42:13 loaded item_doc2vec_item_size21661.model	
+2020-05-16 10:42:26 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:42:26 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-16 10:42:26 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-16 10:42:26 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-16 10:42:26 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-16 10:42:26 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:42:26 begin to load data	
+2020-05-16 10:42:26 load data done	
+2020-05-16 10:44:08 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-16 10:44:08 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-16 10:44:08 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-16 10:44:08 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-16 10:44:08 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-16 10:44:08 loaded item_doc2vec_item_size21661.model	
+2020-05-16 10:44:17 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:44:17 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-16 10:44:17 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-16 10:44:17 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-16 10:44:17 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-16 10:44:17 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 10:44:17 begin to load data	
+2020-05-16 10:44:17 load data done	
+2020-05-16 10:45:08 Epoch_0000_finished	traing_loss = nan	
+2020-05-16 10:45:28 Epoch_0001_finished	traing_loss = nan	
+2020-05-16 10:45:35 Epoch_0002_finished	traing_loss = nan	
+2020-05-16 10:45:41 done	
+2020-05-16 10:52:16 NumExpr defaulting to 8 threads.	
+2020-05-16 10:52:19 From C:\Users\45016577\.spyder-py3\temp.py:33: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.	
+2020-05-16 10:52:19 From E:\Anaconda3\lib\site-packages\tensorflow\contrib\learn\python\learn\datasets\mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.	
+2020-05-16 10:52:19 From E:\Anaconda3\lib\site-packages\tensorflow\contrib\learn\python\learn\datasets\base.py:252: _internal_retry.<locals>.wrap.<locals>.wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.	
+2020-05-16 10:52:20 From E:\Anaconda3\lib\site-packages\tensorflow\contrib\learn\python\learn\datasets\mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.	
+2020-05-16 10:52:20 From E:\Anaconda3\lib\site-packages\tensorflow\contrib\learn\python\learn\datasets\mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.	
+2020-05-16 10:52:20 From E:\Anaconda3\lib\site-packages\tensorflow\contrib\learn\python\learn\datasets\mnist.py:290: DataSet.__init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.	
+2020-05-16 11:00:07 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-16 11:00:07 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-16 11:00:07 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-16 11:00:07 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-16 11:00:07 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-16 11:00:07 loaded item_doc2vec_item_size21661.model	
+2020-05-16 11:00:15 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 11:00:15 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-16 11:00:15 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-16 11:00:15 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-16 11:00:15 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-16 11:00:15 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-16 11:00:16 begin to load data	
+2020-05-16 11:00:16 load data done	
+2020-05-16 11:01:10 Epoch_0000_finished	traing_loss = nan	
+2020-05-16 11:01:28 Epoch_0001_finished	traing_loss = nan	
+2020-05-16 11:01:36 Epoch_0002_finished	traing_loss = nan	
+2020-05-16 11:01:42 done	
+2020-05-18 10:17:46 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:17:46 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:17:46 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:17:46 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:17:46 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:17:46 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:18:20 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:18:20 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:18:20 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:18:20 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:18:20 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:18:20 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:18:29 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:18:29 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:18:29 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:18:29 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:18:29 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:18:29 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:18:30 begin to load data	
+2020-05-18 10:18:30 load data done	
+2020-05-18 10:19:18 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:246: sparse_to_dense (from tensorflow.python.ops.sparse_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Create a `tf.sparse.SparseTensor` and use `tf.sparse.to_dense` instead.	
+2020-05-18 10:20:33 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:20:33 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:20:33 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:20:33 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:20:33 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:20:33 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:20:42 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:20:42 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:20:42 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:20:42 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:20:42 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:20:42 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:20:42 begin to load data	
+2020-05-18 10:20:43 load data done	
+2020-05-18 10:22:19 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:22:19 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:22:19 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:22:19 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:22:19 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:22:19 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:22:28 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:22:28 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:22:28 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:22:28 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:22:28 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:22:28 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:22:29 begin to load data	
+2020-05-18 10:22:29 load data done	
+2020-05-18 10:25:31 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:25:31 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:25:31 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:25:31 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:25:31 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:25:31 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:25:39 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:25:40 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:25:40 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:25:40 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:25:40 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:25:40 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:25:40 begin to load data	
+2020-05-18 10:25:40 load data done	
+2020-05-18 10:27:07 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:27:07 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:27:07 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:27:07 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:27:07 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:27:07 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:27:15 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:27:16 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:27:16 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:27:16 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:27:16 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:27:16 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:27:16 begin to load data	
+2020-05-18 10:27:16 load data done	
+2020-05-18 10:28:19 Epoch_0000_finished	traing_loss = nan	
+2020-05-18 10:28:41 Epoch_0001_finished	traing_loss = nan	
+2020-05-18 10:28:51 Epoch_0002_finished	traing_loss = nan	
+2020-05-18 10:28:59 done	
+2020-05-18 10:30:04 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:30:04 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:30:04 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:30:04 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:30:04 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:30:04 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:30:12 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:30:13 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:30:13 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:30:13 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:30:13 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:30:13 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:30:13 begin to load data	
+2020-05-18 10:30:13 load data done	
+2020-05-18 10:39:24 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:39:24 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:39:24 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:39:24 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:39:24 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:39:24 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:39:33 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:39:33 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:39:33 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:39:33 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:39:33 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:39:33 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:39:33 begin to load data	
+2020-05-18 10:39:34 load data done	
+2020-05-18 10:44:22 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 10:44:23 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 10:44:23 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 10:44:23 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 10:44:23 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 10:44:23 loaded item_doc2vec_item_size21661.model	
+2020-05-18 10:44:31 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:44:31 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 10:44:31 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 10:44:31 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 10:44:31 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 10:44:31 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 10:44:32 begin to load data	
+2020-05-18 10:44:32 load data done	
+2020-05-18 11:14:08 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 11:14:08 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 11:14:08 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 11:14:08 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 11:14:08 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 11:14:08 loaded item_doc2vec_item_size21661.model	
+2020-05-18 11:14:16 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:14:17 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 11:14:17 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 11:14:17 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 11:14:17 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 11:14:17 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:14:17 begin to load data	
+2020-05-18 11:14:17 load data done	
+2020-05-18 11:15:26 Epoch_0000_finished	traing_loss = nan	
+2020-05-18 11:15:51 Epoch_0001_finished	traing_loss = nan	
+2020-05-18 11:16:00 Epoch_0002_finished	traing_loss = nan	
+2020-05-18 11:16:09 done	
+2020-05-18 11:17:30 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 11:17:30 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 11:17:30 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 11:17:30 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 11:17:30 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 11:17:30 loaded item_doc2vec_item_size21661.model	
+2020-05-18 11:17:39 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:17:39 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 11:17:39 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 11:17:39 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 11:17:39 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 11:17:39 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:17:39 begin to load data	
+2020-05-18 11:17:40 load data done	
+2020-05-18 11:18:50 Epoch_0000_finished	traing_loss = nan	
+2020-05-18 11:19:16 Epoch_0001_finished	traing_loss = nan	
+2020-05-18 11:19:26 Epoch_0002_finished	traing_loss = nan	
+2020-05-18 11:19:34 done	
+2020-05-18 11:34:32 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 11:34:32 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 11:34:32 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 11:34:32 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 11:34:32 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 11:34:32 loaded item_doc2vec_item_size21661.model	
+2020-05-18 11:34:40 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:34:41 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 11:34:41 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 11:34:41 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 11:34:41 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 11:34:41 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:34:41 begin to load data	
+2020-05-18 11:34:41 load data done	
+2020-05-18 11:35:52 Epoch_0000_finished	traing_loss = nan	
+2020-05-18 11:36:19 Epoch_0001_finished	traing_loss = nan	
+2020-05-18 11:36:29 Epoch_0002_finished	traing_loss = nan	
+2020-05-18 11:36:37 done	
+2020-05-18 11:56:33 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-18 11:56:33 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-18 11:56:33 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-18 11:56:33 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-18 11:56:33 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-18 11:56:33 loaded item_doc2vec_item_size21661.model	
+2020-05-18 11:56:41 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:56:42 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-18 11:56:42 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-18 11:56:42 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-18 11:56:42 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-18 11:56:42 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-18 11:56:42 begin to load data	
+2020-05-18 11:56:42 load data done	
+2020-05-18 11:57:54 Epoch_0000_finished	traing_loss = nan	
+2020-05-18 11:58:20 Epoch_0001_finished	traing_loss = nan	
+2020-05-18 11:58:31 Epoch_0002_finished	traing_loss = nan	
+2020-05-18 11:58:39 done	
+2020-05-19 15:13:14 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:13:14 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:13:14 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:13:14 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:13:14 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:13:14 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:13:23 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:13:23 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:13:23 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:13:23 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:13:23 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:13:23 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:13:24 begin to load data	
+2020-05-19 15:13:24 load data done	
+2020-05-19 15:13:24 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:551: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+	
+2020-05-19 15:14:24 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:14:24 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:14:24 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:14:24 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:14:24 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:14:24 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:14:33 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:14:33 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:14:33 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:14:33 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:14:33 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:14:33 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:14:33 begin to load data	
+2020-05-19 15:14:34 load data done	
+2020-05-19 15:21:33 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:21:34 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:21:34 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:21:34 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:21:34 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:21:34 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:21:42 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:21:42 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:21:42 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:21:42 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:21:42 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:21:42 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:21:43 begin to load data	
+2020-05-19 15:21:43 load data done	
+2020-05-19 15:33:55 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:33:56 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:33:56 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:33:56 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:33:56 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:33:56 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:34:04 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:34:04 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:34:04 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:34:04 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:34:04 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:34:04 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:34:05 begin to load data	
+2020-05-19 15:34:05 load data done	
+2020-05-19 15:37:07 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:37:07 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:37:07 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:37:07 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:37:07 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:37:07 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:37:15 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:37:16 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:37:16 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:37:16 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:37:16 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:37:16 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:37:16 begin to load data	
+2020-05-19 15:37:16 load data done	
+2020-05-19 15:39:39 done	
+2020-05-19 15:40:05 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:40:05 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:40:05 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:40:05 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:40:05 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:40:05 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:40:14 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:40:14 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:40:14 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:40:14 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:40:14 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:40:14 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:40:14 begin to load data	
+2020-05-19 15:40:14 load data done	
+2020-05-19 15:42:30 done	
+2020-05-19 15:48:13 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:48:13 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:48:13 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:48:13 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:48:13 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:48:13 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:48:21 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:48:22 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:48:22 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:48:22 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:48:22 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:48:22 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:48:22 begin to load data	
+2020-05-19 15:48:22 load data done	
+2020-05-19 15:50:42 done	
+2020-05-19 15:57:53 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:57:53 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:57:53 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:57:53 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:57:53 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:57:53 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:58:18 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 15:58:18 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 15:58:18 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 15:58:18 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 15:58:18 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 15:58:18 loaded item_doc2vec_item_size21661.model	
+2020-05-19 15:58:27 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:58:27 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 15:58:27 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 15:58:27 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 15:58:27 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 15:58:27 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 15:58:27 begin to load data	
+2020-05-19 15:58:27 load data done	
+2020-05-19 16:00:50 done	
+2020-05-19 16:11:17 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-05-19 16:11:17 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-05-19 16:11:17 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-05-19 16:11:17 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-05-19 16:11:17 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-05-19 16:11:17 loaded item_doc2vec_item_size21661.model	
+2020-05-19 16:11:26 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 16:11:26 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-05-19 16:11:26 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-05-19 16:11:26 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-05-19 16:11:26 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-05-19 16:11:26 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-05-19 16:11:26 begin to load data	
+2020-05-19 16:11:26 load data done	
+2020-05-19 16:13:30 done	
+2020-06-16 13:17:24 begin to load data	
+2020-06-16 13:17:25 load data done	
+2020-06-16 13:17:25 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:261: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+	
+2020-06-16 13:17:25 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:276: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+	
+2020-06-16 13:17:25 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:286: The name tf.random_normal is deprecated. Please use tf.random.normal instead.
+	
+2020-06-16 13:17:25 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:590: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+	
+2020-06-16 13:17:26 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:609: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+	
+2020-06-16 13:17:26 From E:\Anaconda3\lib\site-packages\tensorflow\python\ops\math_grad.py:1205: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where	
+2020-06-16 13:17:28 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:610: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+	
+2020-06-16 13:17:28 From C:\Users\45016577\Desktop\IJCAI 2019\Code\code of homofpily framework\atne_trust.py:611: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+	
+2020-06-16 13:17:57 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-06-16 13:17:58 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-06-16 13:17:58 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-06-16 13:17:58 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-06-16 13:17:58 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-06-16 13:17:58 loaded item_doc2vec_item_size21661.model	
+2020-06-16 13:18:05 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-06-16 13:18:06 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-06-16 13:18:06 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-06-16 13:18:06 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-06-16 13:18:06 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-06-16 13:18:06 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-06-16 13:18:06 begin to load data	
+2020-06-16 13:18:06 load data done	
+2020-06-16 13:18:11 done	
+2020-06-16 13:18:55 loading Doc2Vec object from item_doc2vec_item_size21661.model	
+2020-06-16 13:18:55 loading vocabulary recursively from item_doc2vec_item_size21661.model.vocabulary.* with mmap=None	
+2020-06-16 13:18:55 loading wv recursively from item_doc2vec_item_size21661.model.wv.* with mmap=None	
+2020-06-16 13:18:55 loading docvecs recursively from item_doc2vec_item_size21661.model.docvecs.* with mmap=None	
+2020-06-16 13:18:55 loading trainables recursively from item_doc2vec_item_size21661.model.trainables.* with mmap=None	
+2020-06-16 13:18:55 loaded item_doc2vec_item_size21661.model	
+2020-06-16 13:19:03 loading Doc2Vec object from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-06-16 13:19:03 loading trainables recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.trainables.* with mmap=None	
+2020-06-16 13:19:03 loading vocabulary recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.vocabulary.* with mmap=None	
+2020-06-16 13:19:03 loading wv recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.wv.* with mmap=None	
+2020-06-16 13:19:03 loading docvecs recursively from Doc2vec_Users_plus_Items_Epinions_category_USize7151.model.docvecs.* with mmap=None	
+2020-06-16 13:19:03 loaded Doc2vec_Users_plus_Items_Epinions_category_USize7151.model	
+2020-06-16 13:19:04 begin to load data	
+2020-06-16 13:19:04 load data done	
+2020-06-16 13:19:09 done	
