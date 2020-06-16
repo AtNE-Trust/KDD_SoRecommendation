@@ -5,12 +5,6 @@ Created on Mon Jan  7 12:01:30 2019
 @author: 45016577
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 11:59:32 2018
-
-@author: 45016577
-"""
 
 import pickle
 import pymysql
@@ -58,12 +52,12 @@ def get_user_related_itemID():
     return user_related_itemID
 
 # user MF loading
-fr = open('user_PMF_train_data.txt','rb') # load user latent feature matrix 由PMF得到的
+fr = open('user_PMF_train_data.txt','rb') # load user latent feature matrix 
 user_PMF_data = pickle.load(fr)
 fr.close()
 
 # user_related_item_feature
-fr1 = open('item_PMF_train_data.txt','rb')  # load item latent feature matrix 由PMF得到的
+fr1 = open('item_PMF_train_data.txt','rb')  # load item latent feature matrix 
 item_PMF_data = pickle.load(fr1)
 fr1.close()
 
@@ -81,7 +75,7 @@ i = 0
 user_item_feature = [] 
 for user_id in range(7151):
     user_related_item_feature = float(0)
-    for item_id in sorted_item_list[user_id]: # trustor_related_item feature计算
+    for item_id in sorted_item_list[user_id]: 
         user_related_item_feature += item_PMF_data[item_id-1]
         user_related_item_feature += item_model.docvecs[item_id-1]
         i = i+2    
@@ -300,7 +294,6 @@ def main(args):
          biases_network['encoder_b2'])) 
     layer_3_network_trustor = tf.nn.relu(tf.add(tf.matmul(layer_2_network_trustor, weights_network['encoder_h3']), 
          biases_network['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_network_trustor = tf.nn.relu(tf.add(tf.matmul(layer_3_network_trustor, weights_network['encoder_h4']), 
          biases_network['encoder_b4']))
     
@@ -311,11 +304,11 @@ def main(args):
          biases_network['encoder_b2'])) 
     layer_3_network_trustee = tf.nn.relu(tf.add(tf.matmul(layer_2_network_trustee, weights_network['encoder_h3']), 
          biases_network['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
+ 
     layer_4_network_trustee =tf.nn.relu(tf.add(tf.matmul(layer_3_network_trustee, weights_network['encoder_h4']), 
          biases_network['encoder_b4']))
     
-    #对于一对儿用户， encoder_rating的输出
+   
     y_network_trustor = layer_4_network_trustor
     y_network_trustee = layer_4_network_trustee
   
@@ -348,7 +341,6 @@ def main(args):
          biases_rating['encoder_b2'])) 
     layer_3_rating_trustor = tf.nn.relu(tf.add(tf.matmul(layer_2_rating_trustor, weights_rating['encoder_h3']), 
          biases_rating['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_rating_trustor = tf.nn.relu(tf.add(tf.matmul(layer_3_rating_trustor, weights_rating['encoder_h4']), 
          biases_rating['encoder_b4']))
     
@@ -359,11 +351,9 @@ def main(args):
          biases_rating['encoder_b2'])) 
     layer_3_rating_trustee = tf.nn.relu(tf.add(tf.matmul(layer_2_rating_trustee, weights_rating['encoder_h3']), 
          biases_rating['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_rating_trustee =tf.nn.relu(tf.add(tf.matmul(layer_3_rating_trustee, weights_rating['encoder_h4']), 
          biases_rating['encoder_b4']))
     
-    #对于一对儿用户， encoder_rating的输出
     y_r_trustor = layer_4_rating_trustor
     y_r_trustee = layer_4_rating_trustee
   
@@ -398,7 +388,6 @@ def main(args):
          biases_rating['encoder_b2'])) 
     layer_3_review_trustor = tf.nn.relu(tf.add(tf.matmul(layer_2_review_trustor, weights_review['encoder_h3']), 
          biases_review['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_review_trustor = tf.nn.relu(tf.add(tf.matmul(layer_3_review_trustor, weights_review['encoder_h4']), 
          biases_review['encoder_b4']))
     
@@ -409,11 +398,10 @@ def main(args):
          biases_review['encoder_b2'])) 
     layer_3_review_trustee = tf.nn.relu(tf.add(tf.matmul(layer_2_review_trustee, weights_review['encoder_h3']), 
          biases_review['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_review_trustee =tf.nn.relu(tf.add(tf.matmul(layer_3_review_trustee, weights_review['encoder_h4']), 
          biases_review['encoder_b4']))
     
-    #对于一对儿用户， encoder_review的输出
+  
     y_re_trustor = layer_4_review_trustor
     y_re_trustee = layer_4_review_trustee
     
@@ -446,7 +434,6 @@ def main(args):
          biases_item['encoder_b2'])) 
     layer_3_item_trustor = tf.nn.relu(tf.add(tf.matmul(layer_2_item_trustor, weights_item['encoder_h3']), 
          biases_item['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_item_trustor = tf.nn.relu(tf.add(tf.matmul(layer_3_item_trustor, weights_item['encoder_h4']), 
          biases_item['encoder_b4']))
     
@@ -457,11 +444,10 @@ def main(args):
          biases_item['encoder_b2'])) 
     layer_3_item_trustee = tf.nn.relu(tf.add(tf.matmul(layer_2_item_trustee, weights_item['encoder_h3']), 
          biases_item['encoder_b3'])) 
-    # 为了便于编码层的输出，编码层随后一层不使用激活函数 
     layer_4_item_trustee =tf.nn.relu(tf.add(tf.matmul(layer_3_item_trustee, weights_item['encoder_h4']), 
          biases_item['encoder_b4']))
     
-    #对于一对儿用户， encoder_review的输出
+ 
     y_item_trsutor = layer_4_item_trustor
     y_item_trsutee = layer_4_item_trustee
     
@@ -544,7 +530,7 @@ def main(args):
     decoder_item_trustor = decoder_item(item_trustor)
     decoder_item_trustee = decoder_item(item_trustee)
     
-    #loss for rating encoder
+ 
     y_pred_rating_trustor=decoder_rating_trustor
     y_true_rating_trustor=trustor_rating_batch
     
@@ -555,7 +541,7 @@ def main(args):
     cost_rating_trustee = tf.reduce_mean(tf.pow(y_true_rating_trustee - y_pred_rating_trustee, 2))
     cost_rating = cost_rating_trustor + cost_rating_trustee
     
-    #loss for review encoder
+  
     y_pred_review_trustor=decoder_review_trustor
     y_true_review_trustor=trustor_review_batch
     
@@ -567,7 +553,7 @@ def main(args):
     cost_review = cost_review_trustor + cost_review_trustee
     
     
-    #loss for item encoder
+   
     y_pred_item_trustor=decoder_item_trustor
     y_true_item_trustor=trustor_item_batch
     
@@ -578,7 +564,7 @@ def main(args):
     cost_item_trustee = tf.reduce_mean(tf.pow(y_true_item_trustee - y_pred_item_trustee, 2))
     cost_item = cost_item_trustor + cost_item_trustee
     
-    #loss for prediction
+ 
     trustor_out = tf.concat([r_trustor,re_trustor,item_trustor],1) 
     trustee_out = tf.concat([r_trustee,re_trustee,item_trustee],1)
     trust_feature_combine =  tf.concat([trustor_out,trustee_out],1)
