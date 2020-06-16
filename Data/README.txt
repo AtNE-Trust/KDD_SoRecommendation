@@ -9,5 +9,4 @@ Epinions and Ciao contain several information：
 
 u represents users, v represents items. There are also detail information about items including contents, categories.
 
-Note that in our code, we read trust relationships data directly from the database. And we output these data in ".txt" form. Code needs to be
-easily revised if the ".txt" form files are directly fed into the code.
+Note that in our code, we read trust relationships data directly from the database. And we output these data in ".txt" form. Code needs to be easily revised if the ".txt" form files are directly fed into the code.
