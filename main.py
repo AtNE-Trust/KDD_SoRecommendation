@@ -18,7 +18,7 @@ def parse_args():
   -------
   arguments object
   """
-  parser = argparse.ArgumentParser('side')
+  parser = argparse.ArgumentParser('')
   # read_config
   parser.add_argument('--dataset', nargs='?', default='gama', help='Dataset name (gama)')
   parser.add_argument('--network-file', nargs='?', default='./graph/out.ucidata-gama',
