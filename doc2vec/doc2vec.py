@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Fri Aug 17 12:20:19 2018
 Generate user and item vectors by learning their profiles, item details, and reviews
-@author: Feng Zhu
 Function Doc2vec
 Url:"https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec"
 """
