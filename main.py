@@ -59,7 +59,7 @@ def parse_args():
 
 def main(args):
   """
-  main function implementing whole pipeline of SiDE
+  main function implementing trust network embedding
 
   :param args: arguments object
   """
