@@ -37,7 +37,7 @@ in Online Social Networks" submitted to ICDM 2020.
    (2) Give parameters that you want (Optional)
  2. Run MF, doc2vec to obtain pre-generated attributes embedding
  3. Save embedding files.
- 3. Run AtNE-Trust.
+ 3. Run atne-trust.
  
 Note: In our code, this is a version that employ attributes embedding for trust prediction, it is easy to add the 
 "trust network embedding" view to obtain the full code. We make our code such way due to that different methods may have different 
