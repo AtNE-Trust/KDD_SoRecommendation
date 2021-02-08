@@ -1,0 +1,132 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 11 11:44:37 2021
+
+@author: 45016577
+"""
+# -------------Let’s start implementing----------------------
+# Import all the dependencies
+from gensim.models.doc2vec import Doc2Vec, TaggedDocument
+from nltk.tokenize import word_tokenize
+import nltk
+from gensim.test.utils import common_texts, get_tmpfile
+from gensim.models.doc2vec import Doc2Vec, TaggedDocument
+from gensim import corpora
+from gensim.models import Phrases
+from nltk.corpus import stopwords
+import nltk
+import os
+import string
+import pymysql.cursors
+
+def is_chinese(uchar):
+    """is this a chinese word?"""
+    if uchar >= u'\u4e00' and uchar <= u'\u9fa5':
+        return True
+    else:
+        return False 
+
+def is_number(uchar):
+    """is this unicode a number?"""
+    if uchar >= u'\u0030' and uchar <= u'\u0039':
+        return True
+    else:
+        return False
+
+def is_alphabet(uchar):
+    """is this unicode an English word?"""
+    if (uchar >= u'\u0041' and uchar <= u'\u005a') or (uchar >= u'\u0061' and uchar <= u'\u007a') or uchar == " ":
+        return True
+    else:
+        return False
+def format_str(content,lag):
+    content_str = ''
+    if lag==0: #English
+       for i in content:
+           if is_alphabet(i):
+               content_str = content_str+i
+    if lag==1: #Chinese
+        for i in content:
+            if is_chinese(i):
+                content_str = content_str+i
+    if lag==2: #Number
+        for i in content:
+            if is_number(i):
+                content_str = content_str+i        
+    return content_str
+
+nltk.download()
+connect = pymysql.Connect(
+    host='localhost',
+    port=3306,
+    user='root',
+    passwd='123456',
+    db='epinions_socialrecommendation',
+    charset='utf8'
+)
+
+#All documents (for users)
+documents=[]
+
+# For users
+# User profiles
+# For users (put user profiles and reviews together as a user document)
+cursor1=connect.cursor()
+sql ="SELECT * FROM epinions_experiment_10"
+cursor1.execute(sql)
+for row in cursor1.fetchall():
+    #row[2]:review
+    str_cleaned=''
+    if row[2] is not None:
+        str_cleaned=str_cleaned+format_str(row[2],0)
+    if str_cleaned=='':
+       documents.append([])
+       continue
+    
+    documents.append(str_cleaned)
+
+cursor1.close()
+print("Load User Reviews Finished!")
+print(documents)
+
+
+
+
+tagged_data = [TaggedDocument(words=word_tokenize(_d.lower()), tags=[str(i)]) for i, _d in enumerate(documents)]
+
+# -------------Lets start training our model----------------------
+max_epochs = 100
+vec_size = 64
+alpha = 0.025
+
+model = Doc2Vec(size=vec_size,
+                alpha=alpha,
+                min_alpha=0.00025,
+                min_count=1,
+                dm=1)
+
+'''
+Note: dm defines the training algorithm. If dm=1 means‘distributed memory’(PV-DM) and dm =0 means‘distributed bag of words’(PV-DBOW). 
+Distributed Memory model preserves the word order in a document whereas Distributed Bag of words just uses the bag of words approach, 
+which doesn’t preserve any word order.
+'''
+
+model.build_vocab(tagged_data)
+
+for epoch in range(max_epochs):
+    model.train(tagged_data,
+                total_examples=model.corpus_count,
+                epochs=model.iter)
+    # decrease the learning rate
+    model.alpha -= 0.0002
+    # fix the learning rate, no decay
+    model.min_alpha = model.alpha
+
+model.save("review_2_vector.model")
+print("Model Saved")
+
+
+
+
+# to find vector of doc in training data using tags or in other words, printing the vector of document at index 1 in training data
+print(model.docvecs.vectors_docs[793000])
