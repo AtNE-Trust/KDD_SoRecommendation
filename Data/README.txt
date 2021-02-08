@@ -1,4 +1,4 @@
-# AtNE-Trust: Attributed Trust Network Embedding for Trust Predicrion in Online Social Networks
+# Capturing Rich Relations of Users and Items with Multi-Graph Attention Networks for Social Recommendation
 
 Datasets: Epinions and Ciao datasets are used in this paper. The raw datasets are available at: http://www.cse.msu.edu/~tangjili/trust.html
 
