@@ -1,6 +1,6 @@
 # Overview
 Some basic Code implementation of the paper: Capturing Rich Relations of Users and Items with Multi-Graph Attention Networks for Social Recommendation, which has been submitted to KDD 2021 for blind review. The full code will be released once the paper is accepted.
-# AtNE-Trust: Attributed Trust Network Embedding for Trust Predicrion in Online Social Networks
+# Capturing Rich Relations of Users and Items with Multi-Graph Attention Networks for Social Recommendation
 
 
 ## Basic information
